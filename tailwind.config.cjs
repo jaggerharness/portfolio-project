@@ -7,11 +7,11 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        'ws-deep-purple': '#0C0032',
-        'ws-purple': '#190061',
-        'ws-deep-blue': '#240090',
-        'ws-blue': '#3500D3',
-        'ws-black': '#282828',
+        'ws-black': '#1A1A1D',
+        'ws-gray': '#4E4E50',
+        'ws-crimson': '#6F2232',
+        'ws-pink': '#950740',
+        'ws-red': '#C3073F',
       }
     },
   },
